@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 🥅 2021 Goal - Finish Astral and make some animated websites
 -->
 
+{{LANGUAGE_TEMPLATE_START}}
+{{LANGUAGE_NAME}}
+
